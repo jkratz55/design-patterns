@@ -1,3 +1,4 @@
 rootProject.name = 'design-patterns'
 include '01-singleton'
+include '02-factory'
 
